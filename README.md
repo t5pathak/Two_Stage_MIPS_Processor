@@ -41,14 +41,14 @@ that instruction )
 
 ## Processor Layout
 <p align="center">
-    
+    <img width="723" alt="Processor_layout" src="https://user-images.githubusercontent.com/44245211/137942454-33aa2aa4-1241-4056-965d-133f6083a621.png">
   </p>
 
-# Directory Structure
+## Directory Structure
 - ```src``` folder contains the source code. 
 - ```result``` contains the text file containing binary output 
  
-# Running the code
+## Running the code
 Any changes which need to be made, must be made in the code block under the heading "Main" only
 1. Run the code in Xylinx.
 2. Observe the timing diagram to observe the output of the processor.
